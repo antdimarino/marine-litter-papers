@@ -6,7 +6,7 @@ paper, verrà poi fornita un piccolo riassunto di ogni papers al fine poi di div
 
 ## Table of Contents
 - [Lista Papers consigliati da A. Ferone](#Lista-Papers-consigliati-da-A.-Ferone)
-- - [Lista Papers consigliati da V. Bevilacqua](#Lista-Papers-consigliati-da-V.-Bevilacqua)
+- [Lista Papers consigliati da V. Bevilacqua](#Lista-Papers-consigliati-da-V.-Bevilacqua)
 
 ## Lista Papers consigliati da A. Ferone
 
