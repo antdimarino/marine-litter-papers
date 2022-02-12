@@ -6,6 +6,7 @@ paper, verrà poi fornita un piccolo riassunto di ogni papers al fine poi di div
 
 ## Table of Contents
 - [Lista Papers consigliati da A. Ferone](#Lista-Papers-consigliati-da-A.-Ferone)
+- - [Lista Papers consigliati da V. Bevilacqua](#Lista-Papers-consigliati-da-V.-Bevilacqua)
 
 ## Lista Papers consigliati da A. Ferone
 
@@ -26,3 +27,10 @@ paper, verrà poi fornita un piccolo riassunto di ogni papers al fine poi di div
 
 :heavy_check_mark: Towards a modelling and optimisation of the recovery of marine floating plastic
 - [Paper](https://hal.archives-ouvertes.fr/hal-03365821/document)
+
+## Lista Papers consigliati da V. Bevilacqua
+:heavy_check_mark: Modeling the Pathways and Accumulation Patterns of Micro- and Macro-Plastics in the Mediterranean:
+- [Paper](https://www.frontiersin.org/articles/10.3389/fmars.2021.743117/full)
+
+:heavy_check_mark: A Cross Disciplinary Framework for Cost-Benefit Optimization of Marine Litter Cleanup at Regional Scale:
+- [Paper](https://www.frontiersin.org/articles/10.3389/fmars.2021.744208/full)
