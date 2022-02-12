@@ -1,6 +1,9 @@
 # marine-litter-papers
 # Lista papers per path prediction del Marine Litter
 
+Verrano inseriti i papers relativi alla predizione della traiettoria del Marin Litter, l'ordine è ancora casuale determinato da chi ha consigliato un determinato
+paper, verrà poi fornita un piccolo riassunto di ogni papers al fine poi di dividerli per argomenti.
+
 ## Table of Contents
 - [Lista Papers consigliati da A. Ferone](#Lista-Papers-consigliati-da-A.-Ferone)
 
