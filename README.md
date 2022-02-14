@@ -15,6 +15,7 @@ paper, verrà poi fornita un piccolo riassunto di ogni papers al fine poi di div
 
 :heavy_check_mark: Predicting marine litter accumulation patterns in the Mediterranean basin: spatio-temporal variability and comparison with empirical data 
 - [Paper](https://indicit-europa.eu/cms/wp-content/uploads/2021/03/Mansui-et-al_-2020.pdf)
+- **Descrizione**: Paper focalizzato sulla predizione a lungo termine di marine litter concentrato maggiormente sulla possibilità di incagli e affondamenti. Modelli usati: lagrangiani per la stima della distribuzione del marine litter, supportati poi da un modello oceanografico
 
 :heavy_check_mark: Predicting the Path of Marine Debris 
 - [Paper](https://www.akcoastalstudies.org/data/Curriculum-2020_out_of_school/Predicting_the_Path_of_Marine_Debris.pdf)
