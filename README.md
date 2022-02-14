@@ -27,6 +27,7 @@ paper, verrà poi fornita un piccolo riassunto di ogni papers al fine poi di div
 
 :heavy_check_mark: Towards a modelling and optimisation of the recovery of marine floating plastic
 - [Paper](https://hal.archives-ouvertes.fr/hal-03365821/document)
+- **Descrizione**: A partire da dati di macro-plastiche(cluster di rifiuti) catturati da diverse fonti, satelliti, droni e aerei, vengono poi sincronizzati e matchati in un database. A partire dai dati di direzione e velocità delle correnti marine, ottenute attraverso SHOM(ente francese di osservazioni marine), creano una griglia dove ogni vertice identifica direzione e velocità della corrente marina in quel punto. Utilizzano il centroide del cluster insieme ai vertici in un interpolazione per prevedere la direzione e la velocità nel centroide. Poi utilizzano questa velocità e direzione al fine di prevedere la prossima posizione del cluster, non specificando come. I modelli di interpolazione sono due: deterministico e stocastico
 
 ## Lista Papers consigliati da V. Bevilacqua
 :heavy_check_mark: Modeling the Pathways and Accumulation Patterns of Micro- and Macro-Plastics in the Mediterranean:
